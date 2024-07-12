@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Image Positioning</title>
+    <style>
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            /* height: 100vh;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center; */
+
+        }
+
+
+        .container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        .image9 {
+            position: absolute;
+            width: 48.8vw; /* 뷰포트 너비의 48.8% */
+            left: 46.5vw;  /* 뷰포트 너비의 46.5% */
+            top: 27vh;    /* 뷰포트 높이의 27% */
+            transform: translate(-50%, -50%); /* 중심 맞춤 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="#"><img src="/design/pic_header.png" class="image9"></a>
+    </div>
+</body>
+</html>

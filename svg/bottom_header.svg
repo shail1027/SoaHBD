@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 2260">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_114-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트_114);
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_120);
+      }
+
+      .cls-4 {
+        fill: url(#_무제_그라디언트_120-2);
+      }
+
+      .cls-5 {
+        fill: url(#_무제_그라디언트_210-3);
+      }
+
+      .cls-6 {
+        fill: url(#_무제_그라디언트_97);
+      }
+
+      .cls-7 {
+        fill: url(#_무제_그라디언트_210);
+      }
+
+      .cls-8 {
+        fill: url(#_무제_그라디언트_275);
+      }
+
+      .cls-9 {
+        fill: url(#_무제_그라디언트_210-2);
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_275" data-name="무제 그라디언트 275" x1="-192" y1="1948.58" x2="1053.4" y2="1948.58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".8"/>
+      <stop offset=".14" stop-color="rgba(249, 253, 255, .79)" stop-opacity=".79"/>
+      <stop offset=".32" stop-color="rgba(235, 247, 255, .75)" stop-opacity=".75"/>
+      <stop offset=".52" stop-color="rgba(211, 239, 255, .7)" stop-opacity=".7"/>
+      <stop offset=".73" stop-color="rgba(177, 227, 255, .62)" stop-opacity=".62"/>
+      <stop offset=".96" stop-color="rgba(135, 212, 255, .52)" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#7ed1ff" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_97" data-name="무제 그라디언트 97" x1="-8.65" y1="2229.5" x2="1968.35" y2="2229.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#667aff" stop-opacity=".5"/>
+      <stop offset=".38" stop-color="rgba(103, 127, 255, .5)" stop-opacity=".5"/>
+      <stop offset=".63" stop-color="rgba(108, 144, 255, .5)" stop-opacity=".5"/>
+      <stop offset=".84" stop-color="rgba(116, 174, 255, .5)" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7ed1ff" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_114" data-name="무제 그라디언트 114" x1="162.31" y1="2168.61" x2="219.84" y2="2168.61" gradientTransform="translate(-759.89 245.64) rotate(-21.69)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aa4ff" stop-opacity=".3"/>
+      <stop offset=".2" stop-color="rgba(178, 186, 255, .47)" stop-opacity=".47"/>
+      <stop offset=".48" stop-color="rgba(211, 215, 255, .7)" stop-opacity=".7"/>
+      <stop offset=".72" stop-color="rgba(234, 236, 255, .86)" stop-opacity=".86"/>
+      <stop offset=".9" stop-color="rgba(249, 250, 255, .96)" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_120" data-name="무제 그라디언트 120" x1="214.95" y1="2182.16" x2="268.39" y2="2182.16" gradientTransform="translate(-759.89 245.64) rotate(-21.69)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#9aa4ff" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_114-2" data-name="무제 그라디언트 114" x1="36.92" y1="2102.9" x2="137.43" y2="2102.9" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#_무제_그라디언트_114"/>
+    <linearGradient id="_무제_그라디언트_120-2" data-name="무제 그라디언트 120" x1="128.88" y1="2126.58" x2="222.27" y2="2126.58" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#_무제_그라디언트_120"/>
+    <linearGradient id="_무제_그라디언트_210" data-name="무제 그라디언트 210" x1="287.34" y1="2602.28" x2="2239.39" y2="2103.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#667aff" stop-opacity=".3"/>
+      <stop offset=".22" stop-color="rgba(103, 123, 255, .31)" stop-opacity=".31"/>
+      <stop offset=".36" stop-color="rgba(109, 128, 255, .34)" stop-opacity=".34"/>
+      <stop offset=".48" stop-color="rgba(119, 137, 255, .38)" stop-opacity=".38"/>
+      <stop offset=".59" stop-color="rgba(134, 149, 255, .45)" stop-opacity=".45"/>
+      <stop offset=".69" stop-color="rgba(152, 166, 255, .53)" stop-opacity=".53"/>
+      <stop offset=".78" stop-color="rgba(175, 185, 255, .64)" stop-opacity=".64"/>
+      <stop offset=".87" stop-color="rgba(202, 209, 255, .76)" stop-opacity=".76"/>
+      <stop offset=".95" stop-color="rgba(233, 235, 255, .9)" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_210-2" data-name="무제 그라디언트 210" x1="235.02" y1="2397.57" x2="868" y2="2235.79" xlink:href="#_무제_그라디언트_210"/>
+    <linearGradient id="_무제_그라디언트_210-3" data-name="무제 그라디언트 210" x1="45.18" y1="2446.09" x2="678.16" y2="2284.31" xlink:href="#_무제_그라디언트_210"/>
+  </defs>
+  <path class="cls-8" d="M-114,1171s25,583,678,1027c1439.9,979.04-756,297-756,297l78-1324Z"/>
+  <path class="cls-6" d="M0,2260s-200,303,1323.49-44.53c288.03-65.7,606.35-156.35,644.85-319.47l-64,667L0,2260Z"/>
+  <g>
+    <path class="cls-2" d="M237.83,2159.11s-57.71-26.24-52.9,3.54c4.82,29.78,18.44,51.72,55.54,15.99,2.58-2.48-34.69,55.55-34.69,55.55l22.98,3.75,11.72-59.3-2.65-19.53Z"/>
+    <path class="cls-3" d="M235.3,2160.23s43.23-44.92,48.71-15.25c5.48,29.67,3.41,54.84-43.54,33.66-3.26-1.47,54.22,40.15,54.22,40.15l-24.21,14.65-30.01-54.8-5.16-18.41Z"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M137.43,2064.69s-76.75-79.87-88.16-28.41-3.46,95.88,79.85,61.82c5.78-2.36-92.2,67.78-92.2,67.78l34.88,20.92,57.32-88.7,8.31-33.41Z"/>
+    <path class="cls-4" d="M132.59,2064.87s99.19-45.01,88.93,6.69c-10.26,51.7-29.87,91.23-92.43,26.53-4.34-4.49,62.1,100.2,62.1,100.2l-48.77,8.14-13.33-108.34,3.5-33.22Z"/>
+  </g>
+  <g>
+    <path class="cls-7" d="M2161.35,1798c-38.5,163.12-356.83,253.77-644.85,319.47-308.52,70.38-546.36,114.08-729.49,139.02v.02l1310.35,208.49,64-667Z"/>
+    <path class="cls-9" d="M786.92,2256.5h.08s0-.01,0-.01c-.03,0-.05,0-.08.01Z"/>
+    <path class="cls-5" d="M786.92,2256.5h.08s0-.01,0-.01c-.03,0-.05,0-.08.01Z"/>
+  </g>
+</svg>
